@@ -10,7 +10,6 @@ const IndexPage = (props) => {
       <Head title="Home"/>
       <h1>Hello.</h1>
       <h2>I'm Galata a Full Stack Developer living in Washington, DC</h2>
-      <p>Need a developer? <Link to="/contact">Contact me</Link></p>
     </Layout>
   )
 }
